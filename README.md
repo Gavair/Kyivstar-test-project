@@ -1,2 +1,2 @@
 # kyivstar_test_project
-The test projcet Kyivstar Big Data School.
+The test project Kyivstar Big Data School.
